@@ -1,0 +1,128 @@
+
+Unhandled exception. System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.IO.StreamWriter.WriteFormatHelper(String format, ReadOnlySpan`1 args, Boolean appendNewLine)
+   at System.IO.StreamWriter.WriteLine(String format, Object arg0)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String format, Object arg0)
+   at System.Console.WriteLine(String format, Object arg0)
+   at Program.Solution.PlusOne(Int32[] digits) in C:\dev\LeetCode\PlusOne\Program.cs:line 24
+   at Program.Program.Main() in C:\dev\LeetCode\PlusOne\Program.cs:line 6
+
+
+   :
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+  PlusOne -> C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.dll
+
+Compilação com êxito.
+
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+    1 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.75
+
+
+
+Unhandled exception. System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.IO.StreamWriter.WriteFormatHelper(String format, ReadOnlySpan`1 args, Boolean appendNewLine)
+   at System.IO.StreamWriter.WriteLine(String format, Object arg0)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String format, Object arg0)
+   at System.Console.WriteLine(String format, Object arg0)
+   at Program.Solution.PlusOne(Int32[] digits) in C:\dev\LeetCode\PlusOne\Program.cs:line 24
+   at Program.Program.Main() in C:\dev\LeetCode\PlusOne\Program.cs:line 6
+
+
+
+
+Compilação de 11/08/2025 16:25:41 iniciada.
+     1>Projeto "C:\dev\LeetCode\PlusOne\PlusOne.csproj" no nó 1 (Clean destino(s)).
+     1>CoreClean:
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.exe".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.deps.json".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.runtimeconfig.json".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.dll".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.pdb".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfoInputs.cache".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfo.cs".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.csproj.CoreCompileInputs.cache".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.sourcelink.json".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.dll".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\refint\PlusOne.dll".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.pdb".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.genruntimeconfig.cache".
+         Excluindo o arquivo "C:\Dev\LeetCode\PlusOne\obj\Debug\net9.0\ref\PlusOne.dll".
+     1>Projeto de compilação pronto "C:\dev\LeetCode\PlusOne\PlusOne.csproj" (Clean destino(s)).
+
+Compilação com êxito.
+    0 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.31
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+  PlusOne -> C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.dll
+
+Compilação com êxito.
+
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+    1 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.79
+Unhandled exception. System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.IO.StreamWriter.WriteFormatHelper(String format, ReadOnlySpan`1 args, Boolean appendNewLine)
+   at System.IO.StreamWriter.WriteLine(String format, Object arg0)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String format, Object arg0)
+   at System.Console.WriteLine(String format, Object arg0)
+   at Program.Solution.PlusOne(Int32[] digits) in C:\dev\LeetCode\PlusOne\Program.cs:line 24
+   at Program.Program.Main() in C:\dev\LeetCode\PlusOne\Program.cs:line 6
+Não foi possível executar porque o comando ou arquivo especificado não foi encontrado.
+Os possíveis motivos para isso incluem:
+  * Você digitou incorretamente um comando dotnet interno.
+  * Você pretendia executar um programa .NET, mas dotnet-clean; não existe.
+  * Você pretendia executar uma ferramenta global, mas não foi possível encontrar um executável com prefixo dotnet com esse nome no PATH.
+Compilação de 11/08/2025 16:27:20 iniciada.
+     1>Projeto "C:\dev\LeetCode\PlusOne\PlusOne.csproj" no nó 1 (Clean destino(s)).
+     1>CoreClean:
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.exe".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.deps.json".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.runtimeconfig.json".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.dll".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.pdb".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfoInputs.cache".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfo.cs".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.csproj.CoreCompileInputs.cache".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.sourcelink.json".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.dll".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\refint\PlusOne.dll".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.pdb".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\PlusOne.genruntimeconfig.cache".
+         Excluindo o arquivo "C:\dev\LeetCode\PlusOne\obj\Debug\net9.0\ref\PlusOne.dll".
+     1>Projeto de compilação pronto "C:\dev\LeetCode\PlusOne\PlusOne.csproj" (Clean destino(s)).
+
+Compilação com êxito.
+    0 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.30
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+  PlusOne -> C:\dev\LeetCode\PlusOne\bin\Debug\net9.0\PlusOne.dll
+
+Compilação com êxito.
+
+C:\dev\LeetCode\PlusOne\Program.cs(28,13): warning CS0219: A variável "overflow" é atribuída, mas seu valor nunca é usado [C:\dev\LeetCode\PlusOne\PlusOne.csproj]
+    1 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.80
+
+
